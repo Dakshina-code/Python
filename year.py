@@ -1,1 +1,3 @@
-IMPORT date
+import datetime
+
+print (datetime.date.today());
